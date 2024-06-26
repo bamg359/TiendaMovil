@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1037293416133",
+    "firebase_url": "https://tienda-9e43e-default-rtdb.firebaseio.com",
+    "project_id": "tienda-9e43e",
+    "storage_bucket": "tienda-9e43e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037293416133:android:b3893611859736c6d88aac",
+        "android_client_info": {
+          "package_name": "com.example.tiendaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1MEpfmYfEzHrkeDcuyyq526ghooAft3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
